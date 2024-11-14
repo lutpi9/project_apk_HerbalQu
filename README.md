@@ -35,7 +35,7 @@ Tampilan ini menunjukkan aplikasi "HERBALQU" dengan kolom pencarian untuk inform
 # *4. deskripsi lidah buaya*
 <img width="169" alt="image" src="https://github.com/user-attachments/assets/86523064-07d9-45ae-a631-f7f3638e75ea">
 
-ampilan ini adalah sebuah infografis sederhana tentang manfaat lidah buaya. Gambar ini menjelaskan secara singkat bahwa lidah buaya memiliki banyak manfaat untuk kesehatan, terutama untuk kulit, mulut, dan pencernaan. 
+tampilan ini adalah sebuah infografis sederhana tentang manfaat lidah buaya. Gambar ini menjelaskan secara singkat bahwa lidah buaya memiliki banyak manfaat untuk kesehatan, terutama untuk kulit, mulut, dan pencernaan. 
 
 # *5. deskripsi jahe*
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/bc458051-cff3-4ab4-8f0d-71dcc041c89f">
