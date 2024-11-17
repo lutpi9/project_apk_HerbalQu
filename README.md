@@ -55,5 +55,14 @@ Tampilan ini memberikan informasi singkat tentang manfaat bawang putih untuk kes
 # *8. deskripsi daun sirih*
 <img width="145" alt="image" src="https://github.com/user-attachments/assets/169a62e6-59ef-4b97-b208-32d03eef3f60">
 
+Tampilan tersebut adalah sebuah infografik tentang manfaat daun sirih untuk kesehatan.Di bagian bawah, ada panduan tentang cara menggunakan daun sirih untuk menjaga kesehatan mulut, seperti berkumur dengan air rebusan daun sirih.
+
+# *9. deskripsi kumis kucing*
 
 
+tampilan ini menyampaikan menyampaikan bahwa kumis kucing adalah tanaman herbal yang bermanfaat untuk menjaga kesehatan ginjal dan saluran kemih.
+
+# *10. favorite*
+<img width="183" alt="fav" src="https://github.com/user-attachments/assets/83b12310-ac86-4b80-883a-97530d9e0239">
+
+Tampilan ini menunjukkan sebuah daftar resep favorit, dengan jahe sebagai resep pertama yang ditampilkan. Pengguna dapat melihat daftar resep favoritnya, lengkap dengan gambar dan nama bahan utama.
